@@ -15,6 +15,6 @@ output/yolov2_epoch_15.pth
 [Download Here](https://drive.google.com/file/d/1sMqvQ22IEGcvAMpAlK9nvJfgv6vQ3J_i/view?usp=drive_link)
 
 ### References
-[Yolov2 - tztztztztz](https://github.com/tztztztztz/yolov2.pytorch/blob/master/yolov2.py)
-[Yolov2 Thesis](https://arxiv.org/pdf/1612.08242)
-[Yolov2 - herbwood](https://herbwood.tistory.com/17)
+[Yolov2 - tztztztztz](https://github.com/tztztztztz/yolov2.pytorch/blob/master/yolov2.py)   
+[Yolov2 Thesis](https://arxiv.org/pdf/1612.08242)   
+[Yolov2 - herbwood](https://herbwood.tistory.com/17)   
